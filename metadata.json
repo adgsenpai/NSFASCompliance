@@ -1,0 +1,6 @@
+{
+  "name": "NSFAS Compliance & Audit Engine",
+  "description": "Automated multimodal student living allowance statement extraction, mathematical reconciliation, and DHET/NSFAS compliance auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
